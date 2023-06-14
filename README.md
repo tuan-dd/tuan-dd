@@ -28,8 +28,6 @@
 
 ## 🏆GitHub Trophies
 
-![](https://github-trophies.vercel.app/?username=tuan-dd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=tuan-dd&icon=0&color=5)](https://visitcount.itsvg.in)
