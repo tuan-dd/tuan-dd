@@ -26,12 +26,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tuan-dd&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuan-dd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-
----
-
-[![](https://visitcount.itsvg.in/api?id=tuan-dd&icon=0&color=5)](https://visitcount.itsvg.in)
-
 <br />
 <br />
 
