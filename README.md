@@ -45,4 +45,4 @@
 
 </details>
 
-[CV]: https://drive.google.com/file/d/1T-r3Kv9sedLnq4-HSXLyxSr4Yo346AZc/view?usp=sharing
+[CV]: https://drive.google.com/file/d/142MCfIa2EQTIHP50aBX0AuveQqd9ayd9/view?usp=sharing
