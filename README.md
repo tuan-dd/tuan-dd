@@ -1,4 +1,4 @@
-# Hi there, I'm Huynh Van Anh Tuan - aka Full Stack develop 👋
+# Hi there, I'm Huynh Van Anh Tuan - aka Backend developer 👋
 
 ## I'm a Dennis !!
 
