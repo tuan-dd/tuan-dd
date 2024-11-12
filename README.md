@@ -1,6 +1,6 @@
 # Hi there, I'm Huynh Van Anh Tuan - aka Full Stack develop 👋
 
-## I'm a Leo !!
+## I'm a Dennis !!
 
 - 🔭 Check out my CV: [Become A VS Code SuperHero!][CV]!
 - 🌱 I’m currently learning everything 🤣
