@@ -5,7 +5,7 @@
 - 🔭 Check out my CV: [Become A VS Code SuperHero!][CV]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for new challenges
-- 🥅 2024 Goals: Learn more about data structures and algorithms and English Language.
+- 🥅 2025 Goals: Learn more about data structures and algorithms and English Language.
 - ⚡ Fun fact: I love swimming and keyboard custom
 
 <br />
